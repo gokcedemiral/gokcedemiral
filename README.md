@@ -2,7 +2,7 @@
 
 - 🎓 I have 2 master's and 1 bachelor's degrees on law to decorate my wall so I can code in a nice atmosphere.
 - 🔭 I’m currently working on developing and maintaining our lovely GUI.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning more advanced parts of things.
 - 👯 I’m looking to collaborate on learning opportunities.
 - 🤔 I’m looking for help with any of above.
 - 💬 Ask me about why and how I made the career switch.
